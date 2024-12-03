@@ -1,0 +1,49 @@
+h1	{
+	color: darkred;
+	front-size: 25px;
+	font-family: Helvetica;
+}
+
+img	{
+	height: 200px;   
+}
+
+p 	{
+	font-size: 18px;
+	line-height: 1.1;
+	letter-spacing: 1.3;
+}
+
+.efj123 {
+	height: 190px;
+}
+
+#txt-darkred	{
+	font-size: 20px;
+	line-height: 1.3;
+	letter-spacing: 1.5;
+    color: darkred;
+}
+
+#guetta {
+	border-radius: 50%;
+}
+
+
+.contenu	{
+	display: flex;
+}
+
+.contenu2 {
+	box-shadow: 5px 5px 5px;
+	border-radius: 20px;
+	padding: 20px;
+	margin: 20px;
+}
+#lien {
+	font-size: 28px;
+}
+
+body	{
+	background-color: #F3ECC9;
+}
